@@ -1,0 +1,22 @@
+#Resources link
+
+https://www.appbrewery.co/p/web-development-course-resources/
+
+https://learnxinyminutes.com/docs/javascript/
+
+#Goggle's IP address
+
+http://216.58.210.46/
+
+#Practice ground 
+
+https://codepen.io/pen/?editors=1000
+
+https://developer.mozilla.org/en-US/docs/Web/HTML/Element/Heading_Elements  -MDN
+
+https://devdocs.io/ -Documentation
+
+
+https://archive.org/- different websites
+
+#To get Emojis -windows+;
